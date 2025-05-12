@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year master's student at the [School of Electronics and Information Engineering](https://sei.buaa.edu.cn/), [Beihang University (BUAA)](https://www.buaa.edu.cn/).  
+I'm a first-year master's student at the [School of Electronics and Information Engineering](https://ee.buaa.edu.cn/), [Beihang University (BUAA)](https://www.buaa.edu.cn/).  
 My research interests lie in **spatio-temporal data mining**, with a focus on temporal modeling, trajectory analysis, and intelligent systems.
 [Email](mailto:zy2402531@buaa.edu.cn) / [GitHub](https://github.com/soMRJI) 
 
